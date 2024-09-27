@@ -1,4 +1,5 @@
 # Machine learning for peptide self-assembly
+[![DOI](https://zenodo.org/badge/861589296.svg)](https://doi.org/10.5281/zenodo.13847868)
 > <div align="justify">Peptide self-assembly is of crucial importance for obtaining advanced supramolecular materials with rich chemical and structural properties. Here, we present a novel recurrent neural network-based method to evaluate the self-assembly potential of unclassified peptides with varying lengths using only peptide sequences as input. The key advantage of the approach lies in leveraging irregularly sampled features, specifically the aggregation propensity scores of amino acids, dipeptides, and tripeptides, as predictor variables for any given peptide under consideration. To assess the effectiveness of the proposed machine learning models, we employed a genetic algorithm-based generative approach to create new sequences with a high affinity towards self-assembly. Our models serve as a knowledgeable tool for complementing human intuition in an endeavour to find novel self-assembling compounds.</div>
 
 ## System requirements
