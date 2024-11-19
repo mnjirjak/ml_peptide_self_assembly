@@ -58,3 +58,15 @@ The generative model is a machine-learning-guided genetic algorithm capable of e
     python SA_ML_generative/find_novel_peptides.py --ml-model-path <path to your .h5 file>
 
 The results will be saved in a ```csv``` file. Additional parameters of the generative model, such as mutation probability or a list of allowed amino acids, can be modified in the header of the ```SA_ML_generative/find_novel_peptides.py``` script.
+
+## Citation
+If you use the software or data published in this repository, please cite the following article:
+```
+@article{Njirjak_Reshaping_the_discovery_2024,
+  author = {Njirjak, Marko and Žužić, Lucija and Babić, Marko and Janković, Patrizia and Otović, Erik and Kalafatovic, Daniela and Mauša, Goran},
+  doi = {10.1038/s42256-024-00928-1},
+  journal = {Nature Machine Intelligence},
+  title = {{Reshaping the discovery of self-assembling peptides with generative AI guided by hybrid deep learning}},
+  year = {2024}
+}
+```
